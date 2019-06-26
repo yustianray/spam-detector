@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 19 18:12:54 2019
 
-@author: Yustian
+@author: Sogi
 """
 
 from sklearn.naive_bayes import MultinomialNB
